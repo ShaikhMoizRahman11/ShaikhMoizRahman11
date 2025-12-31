@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaikhMoizRahman11
-- 👀 I’m interested to work in web devlopment.
-- 🌱 I’m currently in B Tech final year in computer science and engineering
+- 👀 I’m interested to work in web devlopment, Frontend Development, Backend Development, Full Stack Development.
+- 🌱 I have successfully completed my graduation (B.Tech in computer science and engineering)
 - 😄 Pronouns: He, him.
   
 
